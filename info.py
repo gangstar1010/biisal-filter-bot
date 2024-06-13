@@ -97,7 +97,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Kʏᴀ ʀᴇ Bʜɪᴋᴍᴀɴɢᴀ 😑,Kʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ʜᴀɪ ?')
 
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-VERIFY_REQ_CHNL = int(environ.get('VERIFY_REQ_CHNL', 'https://t.me/SH_OTT'))
+VERIFY_REQ_CHNL = int(environ.get('VERIFY_REQ_CHNL', '@SH_OTT'))
 NEW_USER_LOG = int(environ.get('NEW_USER_LOG', ''))
 BIN_CHNL = int(environ.get('BIN_CHNL', ''))
 
